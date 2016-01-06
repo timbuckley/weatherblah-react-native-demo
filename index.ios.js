@@ -62,11 +62,11 @@ const styles = StyleSheet.create({
     // backgroundColor: '#F5FCFF'
   },
   map: {
-    flex: 20,
+    flex: 2,
     marginTop: 30
   },
   textWrapper: {
-    flex: 10,
+    flex: 1,
     alignItems: 'center'
   },
   text: {
