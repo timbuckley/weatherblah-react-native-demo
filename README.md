@@ -1,4 +1,4 @@
-#WeatherBlah
+# WeatherBlah
 
 Simple weather demo built in React Native, making use of `MapView` and `openweathermap`.
 
@@ -6,14 +6,14 @@ Simple weather demo built in React Native, making use of `MapView` and `openweat
 
 
 
-###TODO
+### TODO
 
 * Organize components into individual files.
 * Use more ES6/ES7 features (intentionally neglected ES6 `class`).
 * Consider ways to improve functionality.
 
 
-##Installation
+## Installation
 
 Basic React Native setup requirements [here](https://facebook.github.io/react-native/docs/getting-started.html) and for Android [here](https://facebook.github.io/react-native/docs/android-setup.html).
 
